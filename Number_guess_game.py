@@ -2,7 +2,6 @@ import random #bring in the random number
 import time
 number=random.randint(1, 200) #pick the number between 1 and 200
 
-
 def intro():
     print("May I ask you for your name?")
     name=input() #asks for the name
